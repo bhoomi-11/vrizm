@@ -1,0 +1,30 @@
+{
+  "name": "arvr",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/arvr"
+  },
+  "dependencies": {
+    "app-store-scraper": "^0.17.0",
+    "axios": "^0.24.0",
+    "content-disposition": "^0.5.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "deepai": "^1.0.17",
+    "express": "~4.16.1",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "google-play-scraper": "^8.0.4",
+    "http-errors": "~1.6.3",
+    "image-downloader": "^4.0.3",
+    "jade": "~1.11.0",
+    "jsdom": "^18.1.0",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.15",
+    "paapi5-nodejs-sdk": "^1.1.0",
+    "url-parse": "^1.5.3"
+  }
+}
